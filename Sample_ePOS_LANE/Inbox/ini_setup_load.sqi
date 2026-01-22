@@ -1,0 +1,4 @@
+@wizRpl(SETUP.INI[RECEIPT]Name=40c);
+@wizRpl(SETUP.INI[PAYMENT]CardMaskCC=1);
+@wizRpl(SETUP.INI[PAYMENT]CardMaskDC=1);
+@dbHot(SETUP.INI,SET,SETUP.INI[*);
