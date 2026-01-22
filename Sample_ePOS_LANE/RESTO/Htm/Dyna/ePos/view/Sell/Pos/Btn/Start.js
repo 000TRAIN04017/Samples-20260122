@@ -232,7 +232,7 @@ Ext.define('ePos.view.Sell.Pos.Btn.Start', {
 					flex: 1,
 					itemId: 'FCT716ITM110',
 					userCls: 'sms-btn-darkblue',
-					text: 'Grocery',
+					text: 'GROCERY',
 					iconAlign: 'left',
 					scale: 'medium'
 				},
